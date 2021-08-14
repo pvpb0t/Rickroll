@@ -19,7 +19,7 @@ webbrowser.get('chrome').open(url3)
 tkinter.messagebox.showerror('Yeah, you kinda screwed up', 'you just got rickrolled')
 
 
-#opens the urls 3 times
+#opens the urls 5 times
 for x in range(0, 5):
     webbrowser.get('chrome').open(url)
     webbrowser.get('chrome').open(url2)
