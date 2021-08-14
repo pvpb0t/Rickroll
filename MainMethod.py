@@ -39,4 +39,4 @@ finally:
 
 fh = open('rickinjector.dll', 'w')
 fh = open('rickloader.bat', 'w')
-#
+#creates empty files with these extentions
